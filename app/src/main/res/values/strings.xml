@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">SnapTrip</string>
+    <string name="gambar">Gambar</string>
+    <string name="error">Gagal memuat data.. koneksi error</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Log Out</string>
+    <string name="tambah_hewan">Tambah Hewan</string>
+    <string name="nama">Nama Tempat</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="pesan_hapus">Anda yakin ingin menghapus?</string>
+
 </resources>
